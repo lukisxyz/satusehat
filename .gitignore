@@ -1,0 +1,4 @@
+config.json
+data/*.csv
+data/*.sql
+logs/*.log
